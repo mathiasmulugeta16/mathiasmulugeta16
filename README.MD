@@ -16,7 +16,7 @@ I'm a dedicated student exploring the worlds of web and mobile development. I lo
 
 ## 📂 Featured Projects
 
-- [The red sea app](https://github.com/mathiasmulugeta16/Red-sea-app.git) - Mobile app personalized for the Red Sea Ethiopian restaurant.
+- [The red sea app](https://github.com/mathiasmulugeta16/Red-sea-app.git) - Mobile app personalized for the Red Sea Ethiopian restaurant. (In progress)
 
 ## ⚡ Fun Facts
 
