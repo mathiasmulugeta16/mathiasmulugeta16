@@ -1,4 +1,4 @@
-# Hi, I'm Mathias Mulugeta 👋
+# Hi, I'm Mathias Mulugeta Amare👋
 
 🎓 **Student passionate about tech, learning & creativity**  
 💻 **Skills:** React, React Native, Django, Java, Python, Git 
